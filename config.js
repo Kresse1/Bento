@@ -17,10 +17,10 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'Guten Morgen!',
+	greetingAfternoon: 'Guten Tag,',
+	greetingEvening: 'Guten Abend,',
+	greetingNight: 'Gute Abend!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -29,7 +29,7 @@ const CONFIG = {
 	weatherKey: '4133bd73c486046b8f8789ebd7b83f33', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
-	language: 'en', // More languages in https://openweathermap.org/current#multi
+	language: 'de', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
 	defaultLatitude: '37.775',
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Web-Engineering',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=44997',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Software-Engineering',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=44019',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Game Development',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=40282',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Betriebssysteme',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=44886',
 				},
 			],
 		},
