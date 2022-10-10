@@ -36,10 +36,10 @@ const CONFIG = {
 	defaultLongitude: '-122.419',
 
 	// Autochange
-	autoChangeTheme: true,
+	autoChangeTheme: false,
 
 	// Autochange by OS
-	changeThemeByOS: true,
+	changeThemeByOS: false,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
 	changeThemeByHour: false,
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Mega',
+			icon: 'mega',
+			link: 'https://mega.io/',
 		},
 	],
 
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Web-Engineering',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=44997',
+					name: 'Technische Informatik',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=47603',
 				},
 				{
-					name: 'Software-Engineering',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=44019',
+					name: 'Datenbanken',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=48229',
 				},
 				{
-					name: 'Game Development',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=40282',
+					name: 'Rechnerarchitektur',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=48201',
 				},
 				{
 					name: 'Betriebssysteme',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=44886',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=47426',
 				},
 			],
 		},
