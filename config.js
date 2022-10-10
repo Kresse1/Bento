@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Mega',
-			icon: 'database',
+			icon: 'cpu',
 			link: 'https://mega.io/',
 		},
 	],
