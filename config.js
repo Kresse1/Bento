@@ -161,7 +161,7 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Technische Informatik',
+					name: 'Theoretische Informatik',
 					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=47603',
 				},
 				{
