@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.protonmail.com',
+			link: 'https://calendar.proton.me/u/0/',
 		},
 		{
 			id: '5',
