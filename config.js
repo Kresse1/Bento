@@ -36,14 +36,14 @@ const CONFIG = {
 	defaultLongitude: '-122.419',
 
 	// Autochange
-	autoChangeTheme: true,
+	autoChangeTheme: false,
 
 	// Autochange by OS
-	changeThemeByOS: false,
+	changeThemeByOS: true,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
 	changeThemeByHour: false,
-	hourDarkThemeActive: '18:30',
+	hourDarkThemeActive: '07:01',
 	hourDarkThemeInactive: '07:00',
 
 	// ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Theoretische Informatik',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=47603',
+					name: 'Nebenläufige Programmierung',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=51291',
 				},
 				{
-					name: 'Datenbanken',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=48229',
+					name: 'Methoden der Bioinformatik',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=51522',
 				},
 				{
-					name: 'Rechnerarchitektur',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=48201',
+					name: 'Menschenzentrierte Robotik',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=34716',
 				},
 				{
 					name: 'Betriebssysteme',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=47426',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=50698',
 				},
 			],
 		},
