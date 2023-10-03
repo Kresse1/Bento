@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Nebenläufige Programmierung',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=51291',
+					name: 'Informatik',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=53950',
 				},
 				{
-					name: 'Methoden der Bioinformatik',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=51522',
+					name: 'Rechnerarchitektur',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=54881',
 				},
 				{
-					name: 'Menschenzentrierte Robotik',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=34716',
+					name: 'Software Engineering',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=53731',
 				},
 				{
-					name: 'Betriebssysteme',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=50698',
+					name: 'Seminar',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=54322',
 				},
 			],
 		},
