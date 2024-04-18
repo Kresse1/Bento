@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Informatik',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=53950',
+					name: 'P & P',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=58391',
 				},
 				{
 					name: 'Rechnerarchitektur',
 					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=54881',
 				},
 				{
-					name: 'Software Engineering',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=53731',
+					name: 'Functional Programming',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=57071',
 				},
 				{
-					name: 'Seminar',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=54322',
+					name: 'Logik',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=57980',
 				},
 			],
 		},
