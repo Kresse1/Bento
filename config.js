@@ -147,8 +147,8 @@ const CONFIG = {
 					link: 'https://www.amazon.de/Amazon-Video/b?node=3010075031',
 				},
 				{
-					name: 'Bard',
-					link: 'https://bard.google.com/',
+					name: 'Claude',
+					link: 'https://claude.ai',
 				},
 				{
 					name: 'GPT',
