@@ -161,12 +161,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'P & P',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=58391',
+					name: 'Unreal',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=59540',
 				},
 				{
-					name: 'Rechnerarchitektur',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=54881',
+					name: 'Machine Learning',
+					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=61208',
 				},
 				{
 					name: 'Functional Programming',
