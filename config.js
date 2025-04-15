@@ -36,7 +36,7 @@ const CONFIG = {
 	defaultLongitude: '-122.419',
 
 	// Autochange
-	autoChangeTheme: false,
+	autoChangeTheme: true,
 
 	// Autochange by OS
 	changeThemeByOS: true,
@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Unreal',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=59540',
+					name: 'Hartmann',
+					link: 'https://hartmann.gotraces.de/WWnqiEA8oD26dezNHWTF-Q==',
 				},
 				{
 					name: 'Machine Learning',
