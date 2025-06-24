@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=57071',
 				},
 				{
-					name: 'Logik',
-					link: 'https://moodle.ruhr-uni-bochum.de/course/view.php?id=57980',
+					name: 'GitLab Ba',
+					link: 'https://gitlab.com/chair-of-artificial-intelligence-and-formal-methods/theses/christopher-kamphausen-bachelor',
 				},
 			],
 		},
